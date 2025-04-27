@@ -5,7 +5,7 @@
 ## Demo & Media
 
 ### Video Demo
-[![FlappyChain Demo](https://img.youtube.com/vi/PLACEHOLDER_ID/0.jpg)](https://www.loom.com/share/PLACEHOLDER_LOOM_ID)
+[![Demo](https://img.youtube.com/vi/PLACEHOLDER_ID/0.jpg)](https://www.loom.com/share/PLACEHOLDER_LOOM_ID)
 
 ### Screenshots
 ![Game Interface](assets/screenshots/1.png)
@@ -20,7 +20,7 @@ Traditional gaming platforms offer limited ownership of in-game achievements and
 
 ## Solution
 
-FlappyChain transforms the nostalgic Flappy Bird experience by leveraging Polkadot's Asset Hub to store high scores and achievements directly on-chain. This creates a transparent, tamper-proof gaming ecosystem where:
+The project transforms the nostalgic Flappy Bird experience by leveraging Polkadot's Asset Hub to store high scores and achievements directly on-chain. This creates a transparent, tamper-proof gaming ecosystem where:
 
 - Players truly own their gaming achievements
 - Scores are publicly verifiable
@@ -83,13 +83,6 @@ Our smart contract is deployed at:
 
 [View on Block Explorer](https://blockscout-asset-hub.parity-chains-scw.parity.io/address/0x350108263CAf6D6b3fa9c557A12dda510FA64A15)
 
-## Team
-
-Our diverse team consists of blockchain enthusiasts with expertise in game development, smart contract development, and web design. See our [presentation](https://www.canva.com/design/PLACEHOLDER_CANVA_ID/view) for more details about our backgrounds.
-
-## Open Source Commitment
-
-This project is fully open source under the MIT License. We are committed to maintaining this project as a community resource and welcome contributions from developers interested in blockchain gaming.
 
 ## Future Development
 
