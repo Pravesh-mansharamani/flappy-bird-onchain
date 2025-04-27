@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Flappy Bird DApp</title>
+  <!-- Load ethers.js from unpkg (more reliable) -->
+  <script src="https://unpkg.com/ethers@5.7.2/dist/ethers.umd.min.js"></script>
+  <!-- Link external CSS -->
+  <link rel="stylesheet" href="src/style.css">
+  <style>
+    /* Keep minimal styles here if needed, or remove this block entirely */
+  </style>
+</head>
+<body>
+  <div id="connectionOverlay">
+    <h2>Welcome to Flappy Bird DApp</h2>
+    <div class="polkadot-info">
+      <p>This game connects to Polkadot's Westend Asset Hub testnet</p>
+      <div class="network-badge">Westend Asset Hub (Chain ID: 420420421)</div>
+    </div>
+    <button id="connectWalletBtn">Connect Wallet</button>
+    <div id="errorDetails"></div>
+    <p style="margin-top: 30px;">Or play without connecting:</p>
+    <button id="playWithoutWalletBtn">Play Without Wallet</button>
+  </div>
+  
+  <div id="controls">
+    <span id="walletAddress"></span>
+    <span id="topScore">Top Score: 0</span>
+  </div>
+  <div id="globalScoreCounter">Global Top: <span id="globalTopScoreValue">0</span></div>
+  <canvas id="gameCanvas" width="480" height="640"></canvas>
+  <div id="gameOver">
+    <h2>Game Over!</h2>
+    <p>Your score: <span id="finalScore">0</span></p>
+    <p>Top score: <span id="bestScore">0</span></p>
+    <div id="saveStatus">
+      Score saved on blockchain! 
+      <span id="txLink"></span>
+    </div>
+    <button id="showLeaderboardBtn">Show Leaderboard</button>
+    <button id="restartBtn">Play Again</button>
+  </div>
+  <div id="leaderboard">
+    <h2>Leaderboard</h2>
+    <ol id="scoresList"></ol>
+    <button id="hideLeaderboardBtn">Hide</button>
+  </div>
+  
+  <div class="tx-notification" id="txNotification">
+    <span class="tx-icon">✓</span> Score saved on blockchain!
+    <a href="#" target="_blank" id="viewTxLink">View on Explorer</a>
+  </div>
+  
+  <!-- Link external JavaScript at the end of the body -->
+  <script src="src/script.js"></script>
+</body>
+</html>
