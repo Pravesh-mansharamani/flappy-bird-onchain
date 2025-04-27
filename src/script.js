@@ -61,7 +61,7 @@ let pipeTimer = 0;
 let lastTxHash = null;
 
 // Game parameters
-const gravity = 0.35;          // Increased gravity for even faster fall
+const gravity = 0.25;          // Increased gravity for even faster fall
 const jumpSpeed = -6.5;         // Even stronger jump power
 const pipeGap = 180;          // Larger gap between pipes
 const pipeWidth = 52;
