@@ -8,8 +8,8 @@
 [![FlappyChain Demo](https://img.youtube.com/vi/PLACEHOLDER_ID/0.jpg)](https://www.loom.com/share/PLACEHOLDER_LOOM_ID)
 
 ### Screenshots
-![Game Interface](assets/screenshots/Screenshot%202025-04-27%20at%209.38.57%20AM.png)
-![Leaderboard](assets/screenshots/Screenshot%202025-04-27%20at%209.51.40%20AM.png)
+![Game Interface](assets/screenshots/1.png)
+![Leaderboard](assets/screenshots/2.png)
 
 ### Presentation
 [View Our Canva Presentation](https://www.canva.com/design/PLACEHOLDER_CANVA_ID/view)
