@@ -1,4 +1,4 @@
-# FlappyChain: Decentralized Flappy Bird on Polkadot Asset Hub
+# Flappy Bird on Chain
 
 > A blockchain-powered version of the classic Flappy Bird game with on-chain high scores and achievements.
 
