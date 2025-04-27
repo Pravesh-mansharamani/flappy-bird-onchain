@@ -16,8 +16,11 @@
 
 
 ### Screenshots
-![Game Interface](assets/screenshots/1.png)
-![Leaderboard](assets/screenshots/2.png)
+<div style="display: flex; flex-direction: column; gap: 12px;">
+  <img src="assets/screenshots/1.png" alt="Game Interface" style="max-width: 300px; height: auto; border-radius: 8px;">
+  <img src="assets/screenshots/2.png" alt="Leaderboard" style="max-width: 300px; height: auto; border-radius: 8px;">
+</div>
+
 
 ### Presentation
 [View Our Canva Presentation](https://www.canva.com/design/DAGl1yaKPYo/zAkAJJEvGAQD5i1kC-rpCQ/edit?utm_content=DAGl1yaKPYo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
