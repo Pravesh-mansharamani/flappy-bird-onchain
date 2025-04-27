@@ -17,9 +17,10 @@
 
 ### Screenshots
 <div style="display: flex; flex-direction: column; gap: 12px;">
-  <img src="assets/screenshots/1.png" alt="Game Interface" style="max-width: 300px; height: auto; border-radius: 8px;">
-  <img src="assets/screenshots/2.png" alt="Leaderboard" style="max-width: 300px; height: auto; border-radius: 8px;">
+  <img src="assets/screenshots/1.png" alt="Game Interface" style="width: 500px; height: 500px; object-fit: cover; border-radius: 8px;">
+  <img src="assets/screenshots/2.png" alt="Leaderboard" style="width: 500px; height: 500px; object-fit: cover; border-radius: 8px;">
 </div>
+
 
 
 ### Presentation
