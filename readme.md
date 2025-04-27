@@ -5,14 +5,22 @@
 ## Demo & Media
 
 ### Video Demo
-[![Demo]](https://www.loom.com/share/6716a989f8e24eae9f2f11195e378660?sid=6a9c6c79-b3d1-46e0-bac1-475565f3df78)
+<div>
+  <a href="https://www.loom.com/share/6716a989f8e24eae9f2f11195e378660" target="_blank">
+    <p>Flappy Bird on Chain Demo 🎮 - Watch Video</p>
+  </a>
+  <a href="https://www.loom.com/share/6716a989f8e24eae9f2f11195e378660" target="_blank">
+    <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/6716a989f8e24eae9f2f11195e378660-2c23890d0f4bfea8-full-play.gif" alt="Flappy Bird Demo Gif">
+  </a>
+</div>
+
 
 ### Screenshots
 ![Game Interface](assets/screenshots/1.png)
 ![Leaderboard](assets/screenshots/2.png)
 
 ### Presentation
-[View Our Canva Presentation](https://www.canva.com/design/PLACEHOLDER_CANVA_ID/view)
+[View Our Canva Presentation](https://www.canva.com/design/DAGl1yaKPYo/zAkAJJEvGAQD5i1kC-rpCQ/edit?utm_content=DAGl1yaKPYo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## Problem Statement
 
