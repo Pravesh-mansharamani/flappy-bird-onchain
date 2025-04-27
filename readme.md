@@ -5,7 +5,7 @@
 ## Demo & Media
 
 ### Video Demo
-[![Demo](https://img.youtube.com/vi/PLACEHOLDER_ID/0.jpg)](https://www.loom.com/share/PLACEHOLDER_LOOM_ID)
+[![Demo]](https://www.loom.com/share/6716a989f8e24eae9f2f11195e378660?sid=6a9c6c79-b3d1-46e0-bac1-475565f3df78)
 
 ### Screenshots
 ![Game Interface](assets/screenshots/1.png)
